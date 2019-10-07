@@ -1,0 +1,4 @@
+Daily energy stock analysis projected developed in python which compares the three different stocks. 
+We used simple visualizations to presents the findings in terms of Moving avg, closing price,starting price, risk, 
+and prediction after 365 days. For a risk analysis we used two methods as bootstrap and monte carlo method. 
+All the findings and code is available as follows::
