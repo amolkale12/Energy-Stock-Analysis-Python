@@ -1,4 +1,4 @@
-Daily energy stock analysis projected developed in python which compares the three different stocks. 
+Daily energy stock analysis project developed in python which compares the three different stocks (XOM,BP and CVS). 
 We used simple visualizations to presents the findings in terms of Moving avg, closing price,starting price, risk, 
 and prediction after 365 days. For a risk analysis we used two methods as bootstrap and monte carlo method. 
 This portfolio project will be looking data from the stock market particularly some energy stocks. We tried to visualize different aspects
